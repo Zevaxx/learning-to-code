@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/learning-to-code/static/js/main.87f2026a.js",
+    "main.css": "/learning-to-code/static/css/main.dca516e5.css",
+    "main.js": "/learning-to-code/static/js/main.752d1e32.js",
     "static/js/787.d92ea3ac.chunk.js": "/learning-to-code/static/js/787.d92ea3ac.chunk.js",
     "index.html": "/learning-to-code/index.html",
-    "main.87f2026a.js.map": "/learning-to-code/static/js/main.87f2026a.js.map",
+    "main.dca516e5.css.map": "/learning-to-code/static/css/main.dca516e5.css.map",
+    "main.752d1e32.js.map": "/learning-to-code/static/js/main.752d1e32.js.map",
     "787.d92ea3ac.chunk.js.map": "/learning-to-code/static/js/787.d92ea3ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.87f2026a.js"
+    "static/css/main.dca516e5.css",
+    "static/js/main.752d1e32.js"
   ]
 }
