@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8c5e5dda.js",
-    "static/js/787.d92ea3ac.chunk.js": "/static/js/787.d92ea3ac.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8c5e5dda.js.map": "/static/js/main.8c5e5dda.js.map",
-    "787.d92ea3ac.chunk.js.map": "/static/js/787.d92ea3ac.chunk.js.map"
+    "main.css": "/learning-to-code/static/css/main.073c9b0a.css",
+    "main.js": "/learning-to-code/static/js/main.8cf50d74.js",
+    "static/js/787.d92ea3ac.chunk.js": "/learning-to-code/static/js/787.d92ea3ac.chunk.js",
+    "static/media/logo.svg": "/learning-to-code/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/learning-to-code/index.html",
+    "main.073c9b0a.css.map": "/learning-to-code/static/css/main.073c9b0a.css.map",
+    "main.8cf50d74.js.map": "/learning-to-code/static/js/main.8cf50d74.js.map",
+    "787.d92ea3ac.chunk.js.map": "/learning-to-code/static/js/787.d92ea3ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8c5e5dda.js"
+    "static/js/main.8cf50d74.js"
   ]
 }
